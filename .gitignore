@@ -1,2 +1,3 @@
-*.dat
-/results
+
+results/data/*.dat # ignores everything in results
+
